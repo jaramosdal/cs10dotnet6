@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fea1e7f-d67e-4c0f-baa0-09d6c0d1db19": {
+      "ProjectGuid": "5fea1e7f-d67e-4c0f-baa0-09d6c0d1db19",
+      "DisplayName": "Chapter01",
+      "ColorIndex": 0
+    },
+    "6574546c-fdd0-461f-8875-1e7b70325e00": {
+      "ProjectGuid": "6574546c-fdd0-461f-8875-1e7b70325e00",
+      "DisplayName": "TopLevelProgram",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

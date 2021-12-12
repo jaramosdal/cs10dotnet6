@@ -1,0 +1,15 @@
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.AssemblyReference.cache
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\ref\Vocabulary.dll
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\Users\javir\Desktop\GitHub\cs10dotnet6\Code\Chapter02\Chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache

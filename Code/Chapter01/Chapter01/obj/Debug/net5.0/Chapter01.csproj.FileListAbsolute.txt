@@ -1,0 +1,16 @@
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.exe
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.deps.json
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.runtimeconfig.json
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.runtimeconfig.dev.json
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.dll
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\ref\Chapter01.dll
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\bin\Debug\net5.0\Chapter01.pdb
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.csproj.AssemblyReference.cache
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.AssemblyInfoInputs.cache
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.AssemblyInfo.cs
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.csproj.CoreCompileInputs.cache
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.dll
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\ref\Chapter01.dll
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.pdb
+C:\Users\javir\Desktop\Libro .NET 6 y C# 10\Chapter01\Chapter01\obj\Debug\net5.0\Chapter01.genruntimeconfig.cache
