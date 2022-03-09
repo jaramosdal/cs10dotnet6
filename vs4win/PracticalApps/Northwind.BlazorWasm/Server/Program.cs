@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.ResponseCompression;
-using Packt.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,25 +7,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
-// if using SQL Server
-//builder.Services.AddNorthwindContext();
-
-// if using SQLite
-builder.Services.AddNorthwindContext(
-  relativePath: Path.Combine("..", ".."));
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-  app.UseWebAssemblyDebugging();
+    app.UseWebAssemblyDebugging();
 }
 else
 {
-  app.UseExceptionHandler("/Error");
-  // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-  app.UseHsts();
+    app.UseExceptionHandler("/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
 }
 
 app.UseHttpsRedirection();
